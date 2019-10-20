@@ -138,7 +138,9 @@ label[for='toggle-all'] {
 .toggle-all:checked:before {
   color: #737373;
 }
-
+input.toggle {
+    background: lightgray;
+}
 .todo-list {
   margin: 0;
   padding: 0;
